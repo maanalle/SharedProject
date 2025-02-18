@@ -1,2 +1,2 @@
-print("Hello world)
-print("Modificcation")
+print("Hello world")
+print("Modification")
